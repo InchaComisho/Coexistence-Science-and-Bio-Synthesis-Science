@@ -2,6 +2,8 @@
 
 A Civilizational Framework for Planetary Restoration Based on Natural Law
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Author: Master
 Proposed Fields: Coexistence Science / Bio-Synthesis Science
 License: Open for use, modification, and redistribution

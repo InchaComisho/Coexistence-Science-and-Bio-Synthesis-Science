@@ -1,5 +1,7 @@
 # 共生科学とバイオシンセシス科学
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 自然法則に基づく惑星再生のための文明フレームワーク
 
 > English version: [README.md](./README.md)
