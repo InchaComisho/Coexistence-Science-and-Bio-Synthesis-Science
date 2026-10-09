@@ -4,7 +4,7 @@
 
 ## 自然法則に基づく惑星再生のための文明フレームワーク
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、共生科学（Coexistence Science）とバイオシンセシス科学（Bio-Synthesis Science）を、自然法則に基づく惑星再生・気候安定化・文明再構築の観点から整理した日本語版概要です。ここで述べる内容は、概念的・統合的フレームワークであり、個別技術の実装には科学的・工学的・生態学的検証が必要です。
 
