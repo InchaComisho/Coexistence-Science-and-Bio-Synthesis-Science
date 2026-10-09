@@ -1,5 +1,7 @@
 # Coexistence Science and Bio-Synthesis Science
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 A Civilizational Framework for Planetary Restoration Based on Natural Law
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
